@@ -38,6 +38,19 @@
       ],
       "video": null,
       "videoTitle": ""
+    },
+    {
+      "n": 2,
+      "title": "Test",
+      "medium": "",
+      "size": "",
+      "year": "2026",
+      "price": 250000,
+      "status": "available",
+      "description": "",
+      "photos": [],
+      "video": null,
+      "videoTitle": ""
     }
   ]
 }
