@@ -1,0 +1,11 @@
+{
+  "site": {"name":"The Mudflower Studio","footer":"Anoniem · Abstract · Eén werk tegelijk","basePath":""},
+  "home": {"tagline":"Abstract werk, zonder naam.","intro":"The Mudflower Studio is een anoniem atelier voor abstracte kunst. Uit modder groeit iets bloemachtigs: traag, stil en zonder haast.\n\nElk werk krijgt enkel een nummer. Geen naam, geen gezicht — alleen het werk."},
+  "about": {"title":"About","text":"Placeholder: hier komt het verhaal van het atelier. Wie het maakt blijft bewust onbekend; wat telt is wat er op het doek gebeurt.\n\nHet werk vertrekt vanuit vorm, kleur en stilte. Lagen verf, inkt en aarde worden zo lang bewerkt tot er een evenwicht ontstaat.\n\nElk werk is een uniek stuk en wordt met zorg verstuurd.","note":"Placeholder — pas deze tekst aan in de admin."},
+  "contact": {"title":"Contact","intro":"Interesse in een werk of een vraag? Laat een bericht achter, je krijgt zo snel mogelijk antwoord.","formAction":"https://formspree.io/f/XXXXXXXX","button":"Verstuur"},
+  "artworks": [
+    {"n":1,"title":"Stilte onder water","medium":"Acryl en inkt op doek","size":"80 × 100 cm","year":"2026","price":250,"status":"available",
+     "description":"Placeholder: een korte omschrijving van N°1. Beschrijf hier het gevoel, de lagen en het materiaal.\n\nVoeg zoveel alinea's toe als je wil, laat telkens een lege regel tussen twee alinea's.",
+     "photos":["placeholder-1.jpg","placeholder-2.jpg","placeholder-3.jpg","placeholder-4.jpg","placeholder-5.jpg"],"video":null}
+  ]
+}

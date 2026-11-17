@@ -1,0 +1,1 @@
+{"name":"mudflower-studio","version":"1.0.0","private":true,"scripts":{"start":"node server.js","preview":"node preview.js"},"engines":{"node":">=18"}}
