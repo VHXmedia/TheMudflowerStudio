@@ -38,25 +38,6 @@
       ],
       "video": null,
       "videoTitle": ""
-    },
-    {
-      "n": 2,
-      "title": "Nieuw werk",
-      "medium": "",
-      "size": "",
-      "year": "2026",
-      "price": 250,
-      "status": "available",
-      "description": "",
-      "photos": [
-        "65e02ccf35bc.jpg",
-        "6a9ee5b5dc0d.jpg",
-        "d911e35fc216.jpg",
-        "6933da188742.jpg",
-        "ca4aaec8ae5b.jpg"
-      ],
-      "video": "472d2e9ddb85.mp4",
-      "videoTitle": ""
     }
   ]
 }
