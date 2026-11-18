@@ -10,4 +10,4 @@ function build(c, R = __dirname) {
   fs.writeFileSync(path.join(O, 'CNAME'), 'themudflowerstudio.be');
 }
 module.exports = { build };
-if (require.main === module) { build(JSON.parse(fs.readFileSync(path.join(__dirname, 'content', 'site.json')))); console.log('docs/ gebouwd') }
+if (require.main === module) { build(JSON.parse(fs.readFileSync(path.join(__dirname, 'content', 'site.json')))); console.log('docs/ built') }

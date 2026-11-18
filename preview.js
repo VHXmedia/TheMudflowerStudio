@@ -1,4 +1,4 @@
-// Toont de gebouwde site (docs/) lokaal op http://localhost:4000
+// Serves the built site (docs/) locally at http://localhost:4000
 const http=require('http'),fs=require('fs'),path=require('path'),{build}=require('./build');
 const c=JSON.parse(fs.readFileSync(path.join(__dirname,'content','site.json')));
 const bp=c.site.basePath||'';build(c);
