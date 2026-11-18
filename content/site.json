@@ -1,34 +1,34 @@
 {
   "site": {
     "name": "The Mudflower Studio",
-    "footer": "Anoniem · Abstract · Eén werk tegelijk",
+    "footer": "Made with love, not perfection",
     "basePath": ""
   },
   "home": {
-    "tagline": "Abstract werk, zonder naam.",
-    "intro": "The Mudflower Studio is een anoniem atelier voor abstracte kunst. Uit modder groeit iets bloemachtigs: traag, stil en zonder haast."
+    "tagline": "",
+    "intro": "Welcome to The Mudflower Studio\n\nA little creative world where feelings turn into art, ideas grow and passion blooms.\n\nA place where I share pieces of myself through colours, shapes and textures. Where creativity has no rules, imperfections are embraced and every creation tells its own story.\n\nMade with love, not perfection."
   },
   "about": {
-    "title": "About",
-    "text": "Placeholder: hier komt het verhaal van het atelier. Wie het maakt blijft bewust onbekend; wat telt is wat er op het doek gebeurt.\n\nHet werk vertrekt vanuit vorm, kleur en stilte. Lagen verf, inkt en aarde worden zo lang bewerkt tot er een evenwicht ontstaat.\n\nElk werk is een uniek stuk en wordt met zorg verstuurd.",
-    "note": "Placeholder — pas deze tekst aan in de admin."
+    "title": "About The Mudflower",
+    "text": "The Mudflower is a creative identity born from a personal journey. What started as a way to navigate difficult feelings through painting slowly became a way of expressing what words sometimes cannot.\n\nEvery piece holds a little part of me, carrying emotions, thoughts and stories that find their way onto the canvas. Through The Mudflower Studio, I want to share this personal world with others, letting my work speak, connect and perhaps make someone feel something of their own.\n\nNot about perfection, but about expression, emotion and being real.\n\n",
+    "note": "-Some feelings are beyond words. So I let my colours speak."
   },
   "contact": {
     "title": "Contact",
-    "intro": "Interesse in een werk of een vraag? Laat een bericht achter, je krijgt zo snel mogelijk antwoord.",
+    "intro": "Interested in a piece of work, or have a question? Leave a message and you will receive a response as soon as possible.",
     "formAction": "https://formspree.io/f/xyewwkzl",
-    "button": "Verstuur"
+    "button": "send"
   },
   "artworks": [
     {
       "n": 1,
-      "title": "The art of staying",
+      "title": "The Art Of Staying ",
       "medium": "Acryl en inkt op doek",
       "size": "80 × 100 cm",
       "year": "2026",
-      "price": 250,
+      "price": 0,
       "status": "available",
-      "description": "Placeholder: een korte omschrijving van N°1. Beschrijf hier het gevoel, de lagen en het materiaal.\n\nVoeg zoveel alinea's toe als je wil, laat telkens een lege regel tussen twee alinea's.",
+      "description": "I stand here, alone.\n\nHere on this earth, surrounded by the people I love.\nAnd yet, somehow, I still feel alone.\n\nAlone with the thoughts wandering through my mind.\nThoughts that twist, turn and pull me under.\nDark thoughts.\nThoughts I cannot simply silence, escape or push away.\n\nSo I let them find their way onto this canvas.\nThrough colours, shapes and layers, I give them a place to exist.\nI let the paint carry what my words sometimes cannot.\n\nI can see the light.\nI know it's there.\nBut right now, I cannot quite reach it.\n\nStill, I keep looking.\nI keep creating.\nI keep staying.\n\nAnd perhaps, one day,\nI will find my way towards the light.\n\nThat is The Art Of Staying.",
       "photos": [
         "placeholder-1.jpg",
         "placeholder-2.jpg",
